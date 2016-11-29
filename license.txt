@@ -1,0 +1,1 @@
+License information is available: http://ab-initio.mit.edu/wiki/index.php/NLopt_License_and_Copyright
